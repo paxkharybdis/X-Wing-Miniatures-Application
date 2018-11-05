@@ -1,0 +1,82 @@
+.button {
+    display:block;
+    width:50px;
+    height:50px;
+    line-height:20px;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    color:#000000;
+    text-align:center;
+    text-decoration:none;
+    background: #1BBA1F;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.button:hover {
+    background: #ffffff;
+    border: 2px solid #E86D3B;
+    color: #E86D3B;
+}
+
+.row img {
+    display: inline;
+}
+
+.stack img {
+    position: absolute;
+} 
+
+#divhead {
+    padding: 10px;
+    background-color: #1BBA1F;
+    color: #fff;
+    border-radius: 10px;
+    }
+
+#divhead img {
+    text-align: center;
+    margin: auto;
+}
+
+
+#selector {
+    background-image: url("./arcsm.png");
+    cursor: move;
+}
+
+#movediv {
+    background-color: #000000;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    border-radius: 10px;
+    width:70px; 
+    height: 420px;
+    margin: auto;
+    cursor: move;
+}
+
+#movediv button {
+    text-align: center;
+    margin: auto;
+    
+}
+
+body {
+    /*width: 1920px;
+    height: 1080px; 
+    border:1px solid yellow;*/
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px; 
+    background-color: #000000;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
