@@ -17,7 +17,7 @@ This is dragged with the mouse under the location of the miniature base.  Then, 
 
 To determine movement, there is a handy little console (which can be dragged around as well, to stay out of the way) that can display movement arcs and destinations.  Again, this allows placement of the miniature, accurately, with less risk of moving other pieces.
 
-<img src="console.png" height=300>
+<img src="Console.png" height=300>
 
 
 There are some refinements which are needed, namely finer rotation control.  In this iteration, the arc moves in 1 degree increments.  The next iteration will have a solution for smaller increments.  We are ultimately wanting to incorporate a hardware layer, which would pair a base with WIFI or bluetooth plus a piece to determine orientation with sensors built into the table, which would relay the position and orientation of the selected base, and the app would automatically move and rotate accordingly.
