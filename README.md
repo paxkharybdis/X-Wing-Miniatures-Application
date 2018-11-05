@@ -12,11 +12,13 @@ One challenge, though, on such a big surface, and with so many miniatures, is th
 
 It starts with a rectangle, which has a firing arc attached to the front.  (This is all to proper scale.)
 
-![](arcsm.png)
+<img src="arcsm.png" width= 300>
 
 This is dragged with the mouse under the location of the miniature base.  Then, as you can see [here], through some simple CSS and JavaScript, the arc can be rotated to align to the front of the miniature by grabbing the orange squares and dragging the mouse.  Now it is easy to see if another ship is in the firing arc without risking any accidental moving of any miniatures.
 
 To determine movement, there is a handy little console (which can be dragged around as well, to stay out of the way) that can display movement arcs and destinations.  Again, this allows placement of the miniature, accurately, with less risk of moving other pieces.
+
+![]
 
 Take a look at it [here].  
 
