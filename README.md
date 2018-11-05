@@ -27,5 +27,5 @@ We have a ways to go, but we are excited.
 [//]: # (These are the links used in the body of this document.)
    [X-Wing]: <https://www.fantasyflightgames.com/en/products/x-wing/>
    [Fantasy Flight Games]: <https://www.fantasyflightgames.com>
-   [Firing Arc]: <http://www.nathanthomas.org/xwing/arcsm.png>
+   ![Firing Arc]: <http://www.nathanthomas.org/xwing/arcsm.png>
    [here]: <http://www.nathanthomas.org/xwing/>
